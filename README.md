@@ -1,2 +1,2 @@
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![image](https://github.com/Ahmad-Imtiaz/Ahmad-Imtiaz/blob/master/dino.gif)
 
