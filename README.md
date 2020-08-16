@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Ahmad-Imtiaz/Ahmad-Imtiaz/blob/master/io-Game-Developer.gif" />
 
-## A GAME DEVELOPER  
+## A  DEVELOPER  
 
 - 🔭 Wᴏʀᴋɪɴɢ ᴏɴ Uɴɪᴛʏ, Uɴʀᴇᴀʟ, Lᴜᴀ, Bɪɢ ᴅᴀᴛᴀ , AI ᴀɴᴅ Dᴀᴛᴀ ꜱᴄɪᴇɴᴇ. 
 - 👨🏼‍💻 Sᴋɪʟʟᴇᴅ ɪɴ Gᴍᴀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, UX , ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴄᴇ , Gʀᴀᴘʜɪᴄ Dᴇꜱɪɢɴ .
